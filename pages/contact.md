@@ -1,8 +1,8 @@
 ---
 layout: layouts/contact.njk
-title: Get in touch
+title: Contact
 section: contact
-date: 2018-01-01
+date: 2020-06-03T08:53:13.790Z
 permalink: /contact/index.html
 eleventyNavigation:
   key: Contact
