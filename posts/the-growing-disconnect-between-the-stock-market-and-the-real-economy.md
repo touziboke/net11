@@ -20,7 +20,7 @@ There are no shortage of expert opinions on why there is a growing divergence be
 
 ### Central Bank Monetary Policies
 
-As the crisis unfolded, Central Banks around the world responded in a timely manner to support the financial markets and to mitigate the damage to the real economy.
+As the crisis unfolded, [Central Banks around the world responded](https://www.g20-insights.org/policy_briefs/monetary-policies-strategies-and-the-covid-19-crisis/) in a timely manner to support the financial markets and to mitigate the damage to the real economy.
 
   * Central Banks instituted policy rate cuts to reduce the cost of borrowing and to stimulate economic activity.
 
@@ -42,7 +42,7 @@ With so much liquidity being pumped into the financial markets through the conce
 
 ### Money has no value these days
 
-As part of the Central Bank monetary policies, the price of money has been driven to nearly zero or even negative in certain parts of the world. Low interest rates play a significant role in inflating asset prices as it increases the present value of future cash flows.
+As part of the Central Bank monetary policies, the price of money has been driven to nearly zero or [even negative in certain parts of the world](https://www.europeanceo.com/finance/as-negative-interest-rates-persist-banks-are-stepping-into-the-unknown/), and we are not referring to some obscure banana republic. Low interest rates play a significant role in inflating asset prices as it increases the present value of future cash flows.
 
 ### In conclusion - Where do we go from here?
 
