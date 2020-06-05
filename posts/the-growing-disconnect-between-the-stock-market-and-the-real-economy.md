@@ -14,6 +14,8 @@ tags:
   - pandemic
   - fiscal-stimulus
 ---
+As the world continues to struggle with the Covid-19 pandemic, the rapid spread of the infection, the mounting death toll and economic destruction have brought many countries to the brink of collapse. Yet, financial markets worldwide seem to exist in a parallel universe, having recovered from the massive losses in March to enter a fresh bull market.
+
 There are no shortage of expert opinions on why there is a growing divergence between the financial markets and the real world. Some reasons being put forward by market observers for this curious phenomenon include:
 
 ### Central Bank Monetary Policies
