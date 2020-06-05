@@ -58,4 +58,4 @@ So what can we do at this point in time? There are probably two reasonable choic
 
 2. Alternatively, the more aggressive investors would choose to hold on to the ride and enjoy the rewards of a liquidity driven market rally. One would be well advised to employ the tools of technical analysis to watch closely for trend reversals and set tight stop loss orders to protect the hard-earned gains.
 
-In any case, investors would do well to remember the important principle of ***"Caveat Emptor"***.
+In either case, investors would do well to remember the important principle of ***"Caveat Emptor"***.
