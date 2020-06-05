@@ -15,7 +15,7 @@ tags:
   - pandemic
   - fiscal-stimulus
 ---
-As the world continues to struggle with the Covid-19 pandemic, the rapid spread of the infection, the mounting death toll and economic destruction have brought many countries to the brink. Yet, financial markets worldwide seem to exist in a parallel universe, having recovered from the massive losses in March to enter a fresh bull market.
+As the world continues to struggle with the Covid-19 pandemic, the rapid spread of the infection, the mounting death toll and economic destruction have brought many countries to the brink. Yet, financial markets worldwide seem to exist in a parallel universe, having recovered from the massive losses in March to [enter a fresh bull market](https://finance.yahoo.com/news/were-entering-a-new-bull-market-oppenheimer-analyst-203609002.html).
 
 There are no shortage of expert opinions on why there is a growing divergence between the financial markets and the real world. Some aspects of this curious phenomenon can be explained by the accommodative monetary policies of the Central Banks and the generous fiscal stimulus packages put up by Governments caught flat-footed by the Covid-19 virus outbreak. 
 
@@ -59,4 +59,4 @@ So what can we do at this point in time? There are probably two reasonable choic
 
 2. Alternatively, the more aggressive investors would choose to hold on to the ride and enjoy the rewards of a liquidity driven market rally. One would be well advised to employ the [tools of technical analysis to watch closely for trend reversals](https://www.tradeciety.com/how-to-use-moving-averages/) and set [trailing stop loss orders to protect the hard-earned gains](https://www.tradingwithrayner.com/trailing-stop-loss/).
 
-In either case, investors would do well to remember the important principle of ***"Caveat Emptor"***.
+In either case, investors would do well to remember the important principle of ***"Caveat Emptor"***. Ignore it at your own peril.
