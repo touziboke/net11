@@ -56,6 +56,6 @@ So what can we do at this point in time? There are probably two reasonable choic
 
 1. The conservative investor would probably hold on to cash and live to fight another day. One of the most famous investors of all time, [Warren Buffett has reportedly chosen to trim his stock holdings and raise record amount of cash](https://www.forbes.com/sites/sergeiklebnikov/2020/05/16/buffett-sells-stocks-goldman-sachs-no-elephant-sized-acquisition/#25da9cb6bbf9) in the recent market downturn.  and The downside to this approach is that one would have to watch in envy as other investors reap their profits in the rising markets.
 
-2. Alternatively, the more aggressive investors would choose to hold on to the ride and enjoy the rewards of a liquidity driven market rally. One would be well advised to employ the tools of technical analysis to watch closely for trend reversals and set tight stop loss orders to protect the hard-earned gains.
+2. Alternatively, the more aggressive investors would choose to hold on to the ride and enjoy the rewards of a liquidity driven market rally. One would be well advised to employ the [tools of technical analysis to watch closely for trend reversals](https://www.tradeciety.com/how-to-use-moving-averages/) and set [trailing stop loss orders to protect the hard-earned gains](https://www.tradingwithrayner.com/trailing-stop-loss/).
 
 In either case, investors would do well to remember the important principle of ***"Caveat Emptor"***.
