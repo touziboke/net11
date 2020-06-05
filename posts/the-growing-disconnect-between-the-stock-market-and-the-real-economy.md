@@ -1,5 +1,6 @@
 ---
-title: The growing disconnect between the stock market and the real economy.
+title: Why is there a growing disconnect between the stock market and the real
+  economy and what are the options for the prudent investor?
 date: 2020-06-05T05:46:38.891Z
 author: Touziboke
 summary: As the world continues to struggle with the Covid-19 pandemic, the
@@ -30,15 +31,15 @@ As the crisis unfolded, [Central Banks around the world responded](https://www.g
 
 ### Government Fiscal Policies
 
-Governments around the world have implemented massive fiscal stimulus packages to stem job losses and to arrest the rapid decline of the real economy. Examples of these packages include payroll/job support schemes, soft loans to SMEs, debt moratorium and direct cash handouts. Many governments expect to incur substantial budget deficits this year because of these fiscal policies.
+Governments around the world have implemented [massive fiscal stimulus packages](https://www.csis.org/analysis/breaking-down-g20-covid-19-fiscal-response) to stem job losses and to arrest the rapid decline of the real economy. Examples of these packages include payroll/job support schemes, soft loans to SMEs, debt moratorium and direct cash handouts. Many governments expect to incur substantial budget deficits this year because of these fiscal policies.
 
 ### Financial Markets are forward looking
 
-Financial markets have the uncanny ability to look beyond the present crisis, to anticipate the eventual economic recovery down the road. At this point the Global Stock Markets, rightly or wrongly, are pricing in a V-shaped recovery in the real economy.
+[Financial markets have the uncanny ability to look beyond the present crisis](https://atlaspwm.com/the-coronavirus-and-the-markets-an-update-040920/), to anticipate the eventual economic recovery down the road. At this point the Global Stock Markets, rightly or wrongly, are pricing in a V-shaped recovery in the real economy.
 
 ### It's a liquidity driven rally
 
-With so much liquidity being pumped into the financial markets through the concerted efforts of the Global Central Banks, it is simply inevitable that stock markets reverse their downward trend and quickly begin to climb upwards, just like a balloon will simply expand continuously as long as air is being blown into it. As the markets begin to rise, asset managers, whose performance are benchmarked against the stock indices, are compelled to participate in the rally for fear of missing out (FOMO).
+With so much [liquidity being pumped into the financial markets](https://economictimes.indiatimes.com/markets/expert-view/high-liquidity-driving-concentrated-market-rally-sunil-subramaniam/articleshow/74191318.cms) through the concerted efforts of the Global Central Banks, it is simply inevitable that stock markets reverse their downward trend and quickly begin to climb upwards, just like a balloon will simply expand continuously as long as air is being blown into it. As the markets begin to rise, asset managers, whose performance are benchmarked against the stock indices, are compelled to participate in the rally for [fear of missing out (FOMO)](https://www.bloomberg.com/news/articles/2020-04-07/investors-are-chasing-the-rally-into-the-jaws-of-economic-crisis).
 
 ### Money has no value these days
 
